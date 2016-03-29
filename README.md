@@ -25,6 +25,12 @@ I will hopefully add more information and links about all that soon.
 
 ### Other technology beginners’ resources:
 
+* [The Beginners’ Sites Network](http://begin-site.org/)
+* [The Python Wiki](https://wiki.python.org/moin/) - about the Python programming language.
+* [The Wikibooks Project](https://www.wikibooks.org/) - creating some free/open content educational books.
+* [StackExchange](http://stackexchange.com/) - a network of Q&amp;A sites with the content under the CC-by-sa licence.
+* [“How To Get Help Online”](http://www.shlomifish.org/philosophy/computers/how-to-get-help-online/) - a guide I wrote.
+
 ## Thanks
 
 Thanks to RichiH from #git on Freenode for giving me advice on how to
