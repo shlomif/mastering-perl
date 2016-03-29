@@ -8,6 +8,18 @@ https://github.com/shlomif/mastering-perl/issues/1 .
 
 I will hopefully add more information and links about all that soon.
 
+## Links about Changing the Copyright Regime
+
+* [The book Remix by Lawrence Lessig](https://en.wikipedia.org/wiki/Remix_%28book%29) - under the CC-by-nc licence.
+* [The Case for File Swapping](http://www.shlomifish.org/philosophy/case-for-file-swapping/) - essay by me (= Shlomi Fish) under the CC-by licence.
+## Thanks
+* [“Why Closed Books are So 19th-Century”](http://www.shlomifish.org/philosophy/philosophy/closed-books-are-so-19th-century/) - a subsequent essay of mine - also under CC-by.
+* [Creative Commons](https://creativecommons.org/) - usable and freely distributable licences and other resources.
+* [“Why Free Software needs Free Documentation”](https://www.gnu.org/philosophy/free-doc.html) - essay by Richard Stallman on gnu.org.
+
+## Links for learning Perl
+
+
 ## Thanks
 
 Thanks to RichiH from #git on Freenode for giving me advice on how to
