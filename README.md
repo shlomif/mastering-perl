@@ -19,6 +19,11 @@ I will hopefully add more information and links about all that soon.
 
 ## Links for learning Perl
 
+* [The Perl Beginnners’ Site](http://perl-begin.org/) - contains links to many resources, often free of charge ones.
+* [The Perl Tutorial Hub](http://perl-tutorial.org/) - a list of recommended tutorials about Perl.
+* [learn.perl.org](http://learn.perl.org/) - officialish site, but more limited in scope. Under CC-by-nc-nd.
+
+### Other technology beginners’ resources:
 
 ## Thanks
 
